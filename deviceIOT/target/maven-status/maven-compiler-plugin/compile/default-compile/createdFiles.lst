@@ -1,0 +1,5 @@
+com/ozanthongtomi/deviceIOT/model/Drone.class
+com/ozanthongtomi/deviceIOT/service/FlightCommander.class
+com/ozanthongtomi/deviceIOT/DeviceIotApplication.class
+RestTemplateConfig.class
+com/ozanthongtomi/deviceIOT/controller/FlightController.class

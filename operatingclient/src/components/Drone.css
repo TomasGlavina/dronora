@@ -1,0 +1,22 @@
+.drone_box{
+    margin-left: 5vw;
+    height: 200px;
+    width: 150px;
+    font-size: x-large;
+    border-radius: 25px;
+    border:solid rgb(246, 246, 246);
+    border-width:5 5px;
+}
+
+.drone_image{
+    padding-top: 5px;
+    width: 60px;
+    filter: grayscale(1) invert(1);
+}
+
+.drone_info{
+    text-align: start;
+    margin: 0;
+    font-size: medium;
+    margin-bottom: 10px;
+}
